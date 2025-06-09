@@ -1,5 +1,12 @@
 <h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyuserads&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[GitHub stats](https://github.com/joyuserads/joyuserads)
+
+
 <p align="center">Desenvolvedor .NET | Apaixonado por boas práticas, clean code e arquitetura de software.</p>
 
 ---
