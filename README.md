@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @joyuserads
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
 
-<!---
-joyuserads/joyuserads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">Desenvolvedor .NET | Apaixonado por boas práticas, clean code e arquitetura de software.</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎯 Foco em backend com C# e ASP.NET Core
+- 🛠️ Experiência com Entity Framework Core, SQL Server, autenticação JWT e Swagger
+- 📚 Estudioso de arquitetura limpa, SOLID e APIs REST escaláveis
+- 🤝 Buscando contribuir com projetos open-source e ampliar conexões na comunidade dev
+
+---
+
+### 🧠 Tecnologias e Ferramentas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📁 Projeto em Destaque
+
+#### 🎓 API - Controle de Salas e Equipamentos
+
+> Sistema completo para gerenciar usuários, salas, equipamentos e alocação, com segurança, validações e documentação integrada.
+
+- 🔐 Autenticação JWT com controle de acesso por tipo de usuário (`admin`, `user`)
+- 📄 Documentação com Swagger
+- ✅ Validações personalizadas e uso de DTOs
+- 📦 Paginação em listagens
+- 🔗 [Veja a documentação do projeto](#✨-documentação-da-api---controle-de-salas-e-equipamentos)
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://seu-portfolio.dev)
+
+---
+
+### ⚡ Fatos Rápidos
+
+- 💬 Sempre pronto para aprender algo novo
+- 👨‍🏫 Mentor informal para novos desenvolvedores .NET
+- 🎯 Foco total em escrever código limpo e funcional
+
+---
+
+> *“Programar é entender que cada bug é uma lição disfarçada.”*
