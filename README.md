@@ -7,7 +7,7 @@
 [GitHub stats](https://github.com/joyuserads/joyuserads)
 
 
-<p align="center">Desenvolvedor .NET | Apaixonado por boas práticas, clean code e arquitetura de software.</p>
+<p align="center">Desenvolvedora | Apaixonada por boas práticas, clean code e arquitetura de software.</p>
 
 ---
 
