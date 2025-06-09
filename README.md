@@ -35,15 +35,27 @@
 ### 📁 Projeto em Destaque
 
 #### 🎓 API - Controle de Salas e Equipamentos
-
+Aplicação fullstack com API robusta em .NET e front-end moderno em React.js
 > Sistema completo para gerenciar usuários, salas, equipamentos e alocação, com segurança, validações e documentação integrada.
+
 
 - 🔐 Autenticação JWT com controle de acesso por tipo de usuário (`admin`, `user`)
 - 📄 Documentação com Swagger
 - ✅ Validações personalizadas e uso de DTOs
 - 📦 Paginação em listagens
 - 🔗 [Veja a documentação do projeto](#✨-documentação-da-api---controle-de-salas-e-equipamentos)
+  
+🖥️ Front-end (React.js):
 
+🎨 Interface moderna e responsiva com React + Tailwind CSS
+
+🔒 Autenticação integrada com JWT
+
+📋 Listagens com paginação e filtros
+
+🧭 Navegação com React Router
+
+🔁 Integração total com a API via Axios
 ---
 
 ### 📫 Vamos nos conectar?
