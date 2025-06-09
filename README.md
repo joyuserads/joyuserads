@@ -63,14 +63,13 @@ Aplicação fullstack com API robusta em .NET e front-end moderno em React.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://seu-portfolio.dev)
+
 
 ---
 
 ### ⚡ Fatos Rápidos
 
-- 💬 Sempre pronto para aprender algo novo
-- 👨‍🏫 Mentor informal para novos desenvolvedores .NET
+- 💬 Sempre pronta para aprender algo novo
 - 🎯 Foco total em escrever código limpo e funcional
 
 ---
